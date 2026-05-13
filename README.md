@@ -6,7 +6,7 @@ This is a card game that I came up with based on the idea of not doing what ever
 
 ## Gameplay
 
-Each player has a hand of five cards to start, valued 1-5.
+This game is for 4 players (3 AI players in demo). Each player has a hand of five cards to start, valued 1-5.
 
 Each turn, you choose a card from your hand to play. The other players will also choose a card at the same time, then they are all revealed. If any played cards match, they do not score. Unique played cards will score equal to their face value. Then all played cards are removed from the players' hands. If no cards remain, all cards are added back to their hands.
 
